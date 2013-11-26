@@ -19,3 +19,23 @@
 # 7. repeat steps 2-6 for input from user2
 # 8. repeat steps 2-7 until board is full or winner is declared
 
+####################################
+
+def tic_tac_toe():
+    #initialize board
+    board = [[  A B C], [       ], [1      ], [2      ], [3      ]]
+    
+    #loop through users...get row and col for user's input
+
+def check_full_board(board):
+    #look for tie
+
+def check_diagonal_win(board):
+    #look for X or O occupying either diagonal
+    
+def check_row_win(board):
+    #look for X or O occupying any single row
+
+def check_column_win(board):
+    #look for X or O occupying any single column
+    
